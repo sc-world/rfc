@@ -1,9 +1,9 @@
 - Feature Name: Framework Building 架构搭建
 - Start Date: 2023-03-06
-- Status: await
-- Type: structure
-- Project issue:
-- Dev PR:
+- Status: `await`
+- Type: `structure`
+- Project issue: 无
+- Dev PR: 无
 
 # Summary - 概要
 [summary]: #summary

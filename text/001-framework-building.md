@@ -15,7 +15,7 @@
 
 星际世界 整体架构如下图
 
-![server](001-framework_building/server.png)
+![server](001-framework-building/server.png)
 
 游戏分为三个部分：论坛插件、游戏服务器、游戏前端。
 

@@ -1,0 +1,12 @@
+[book]
+title = "星际世界 设计请求文档"
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://github.com/sc-world/rfds"
+
+[output.html.search]
+heading-split-level = 0
+
+[output.html.playground]
+runnable = false
